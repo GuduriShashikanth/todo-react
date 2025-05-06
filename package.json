@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "https://gudurishashikanth.github.io/todo-react",
+=======
+  "homepage": "https://gudurishashikanth.github.io/todo-react/",
+>>>>>>> f7519573c31737e7df7e19818a347ab0332a84a4
   "name": "todo-project",
   "private": true,
   "version": "0.0.0",
